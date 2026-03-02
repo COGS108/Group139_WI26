@@ -7,7 +7,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 54837,Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen,TV,Finished Airing,7.13,2024-01-09 00:00:00+00:00,3872.0,1385,192376,915,['Fantasy'],"['Isekai', 'School', 'Villainess']",12.0,Winter,2024,Short
 49979,Akuyaku Reijou nanode Last Boss wo Kattemimashita,TV,Finished Airing,7.2,2022-10-01 00:00:00+00:00,3448.0,1289,207649,1149,"['Comedy', 'Fantasy', 'Romance']","['Isekai', 'Villainess']",12.0,Fall,2022,Short
 57719,Akuyaku Reijou Tensei Ojisan,TV,Finished Airing,7.37,2025-01-10 00:00:00+00:00,2577.0,2472,89590,292,"['Comedy', 'Fantasy']","['Isekai', 'School', 'Villainess']",12.0,Winter,2025,Short
-61026,Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga,TV,Not yet aired,6.59,2025-10-07 00:00:00+00:00,6936.0,4460,30310,108,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
+61026,Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga,TV,Not yet aired,6.59,2025-10-07 00:00:00+00:00,6955.0,4460,30310,108,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
 16518,Arata Kangatari,TV,Finished Airing,6.42,2013-04-09 00:00:00+00:00,7769.0,2748,75464,60,"['Adventure', 'Fantasy']",['Isekai'],12.0,Spring,2013,Short
 36882,Arifureta Shokugyou de Sekai Saikyou,TV,Finished Airing,6.72,2019-07-08 00:00:00+00:00,5926.0,275,789347,6849,"['Action', 'Adventure', 'Fantasy']","['Harem', 'Isekai']",13.0,Summer,2019,Short
 40507,Arifureta Shokugyou de Sekai Saikyou 2nd Season,TV,Finished Airing,7.14,2022-01-13 00:00:00+00:00,3791.0,569,444187,4306,"['Action', 'Adventure', 'Fantasy']","['Harem', 'Isekai']",12.0,Winter,2022,Short
@@ -20,7 +20,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 60316,Busamen Gachi Fighter,TV,Finished Airing,6.34,2025-07-06 00:00:00+00:00,8211.0,3992,38427,58,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Summer,2025,Short
 50583,Buta no Liver wa Kanetsu Shiro,TV,Finished Airing,6.29,2023-10-08 00:00:00+00:00,8571.0,3505,48403,100,"['Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2023,Short
 40960,Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore,TV,Finished Airing,6.45,2021-07-07 00:00:00+00:00,7586.0,1615,161441,623,"['Comedy', 'Fantasy']","['Isekai', 'Medical']",12.0,Summer,2021,Short
-57888,"Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",TV,Not yet aired,6.64,2025-10-05 00:00:00+00:00,6589.0,5816,15754,39,['Fantasy'],"['Isekai', 'Reincarnation']",12.0,Fall,2025,Short
+57888,"Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",TV,Not yet aired,6.65,2025-10-05 00:00:00+00:00,6588.0,5816,15754,39,['Fantasy'],"['Isekai', 'Reincarnation']",12.0,Fall,2025,Short
 49613,Chiyu Mahou no Machigatta Tsukaikata,TV,Finished Airing,7.53,2024-01-06 00:00:00+00:00,1910.0,909,295418,1357,"['Action', 'Adventure', 'Fantasy']",['Isekai'],13.0,Winter,2024,Short
 39523,Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,TV,Finished Airing,6.36,2019-10-03 00:00:00+00:00,8116.0,911,295289,566,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2019,Short
 37823,Conception,TV,Finished Airing,4.57,2018-10-10 00:00:00+00:00,14072.0,1861,135541,181,"['Action', 'Comedy', 'Fantasy', 'Romance']","['Harem', 'Isekai', 'Parody']",12.0,Fall,2018,Short
@@ -59,7 +59,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 247,Harukanaru Toki no Naka de: Hachiyou Shou,TV,Finished Airing,6.99,2004-10-06 00:00:00+00:00,4549.0,4730,26624,117,"['Fantasy', 'Romance']","['Isekai', 'Mythology', 'Reverse Harem']",26.0,Fall,2004,Medium
 39030,Hataage! Kemono Michi,TV,Finished Airing,6.59,2019-10-02 00:00:00+00:00,6736.0,1263,212669,281,"['Comedy', 'Fantasy']","['Anthropomorphic', 'Isekai']",12.0,Fall,2019,Short
 57892,"Hazurewaku no ""Joutai Ijou Skill"" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",TV,Finished Airing,6.48,2024-07-05 00:00:00+00:00,7404.0,1283,208657,823,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Summer,2024,Short
-60460,Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru,TV,Not yet aired,6.79,2026-01-01 00:00:00+00:00,5678.0,9594,4460,7,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
+60460,Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru,TV,Not yet aired,6.84,2026-01-01 00:00:00+00:00,5456.0,9594,4460,7,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
 53438,Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.,TV,Finished Airing,7.12,2023-07-07 00:00:00+00:00,3899.0,2072,117651,540,['Fantasy'],"['Isekai', 'Villainess']",12.0,Summer,2023,Short
 57891,Hitoribocchi no Isekai Kouryaku,TV,Finished Airing,6.57,2024-10-04 00:00:00+00:00,6847.0,1891,132246,507,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2024,Short
 39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,TV,Finished Airing,7.97,2019-10-03 00:00:00+00:00,738.0,749,351918,3272,['Fantasy'],"['Isekai', 'Reincarnation']",14.0,Fall,2019,Medium
@@ -76,13 +76,13 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 41623,Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω,TV,Finished Airing,6.69,2021-04-09 00:00:00+00:00,6087.0,555,452475,2775,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai']",10.0,Spring,2021,Short
 44524,Isekai Meikyuu de Harem wo,TV,Finished Airing,6.53,2022-07-06 00:00:00+00:00,0.0,930,287839,2172,"['Action', 'Adventure', 'Fantasy', 'Erotica']","['Harem', 'Isekai']",12.0,Summer,2022,Short
 59130,Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku,TV,Finished Airing,6.7,2025-07-06 00:00:00+00:00,6063.0,2565,84676,292,"['Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",13.0,Summer,2025,Short
-60226,Isekai no Sata wa Shachiku Shidai,TV,Not yet aired,6.98,2026-01-01 00:00:00+00:00,4677.0,10121,3818,12,"['Boys Love', 'Fantasy']","['Adult Cast', 'Isekai']",12.0,Winter,2026,Short
+60226,Isekai no Sata wa Shachiku Shidai,TV,Not yet aired,6.94,2026-01-01 00:00:00+00:00,4894.0,10121,3818,12,"['Boys Love', 'Fantasy']","['Adult Cast', 'Isekai']",12.0,Winter,2026,Short
 51462,Isekai Nonbiri Nouka,TV,Finished Airing,7.54,2023-01-06 00:00:00+00:00,1874.0,1016,266508,2093,"['Fantasy', 'Slice of Life']",['Isekai'],12.0,Winter,2023,Short
 49220,Isekai Ojisan,TV,Finished Airing,7.76,2022-07-06 00:00:00+00:00,1170.0,632,409295,2258,"['Comedy', 'Fantasy']","['Adult Cast', 'Isekai', 'Otaku Culture', 'Parody']",13.0,Summer,2022,Short
 51219,Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita,TV,Finished Airing,6.31,2023-04-08 00:00:00+00:00,8427.0,2011,122318,474,"['Comedy', 'Fantasy']",['Isekai'],12.0,Spring,2023,Short
 38472,Isekai Quartet,TV,Finished Airing,7.37,2019-04-10 00:00:00+00:00,2562.0,640,405682,1040,"['Comedy', 'Fantasy']","['Isekai', 'Parody']",12.0,Spring,2019,Short
 39988,Isekai Quartet 2,TV,Finished Airing,7.36,2020-01-15 00:00:00+00:00,2622.0,1083,249150,263,"['Comedy', 'Fantasy']","['Isekai', 'Parody']",12.0,Winter,2020,Short
-61851,Isekai Quartet 3,TV,Not yet aired,7.43,2025-10-13 00:00:00+00:00,2344.0,5129,21889,50,"['Comedy', 'Fantasy']","['Isekai', 'Parody']",11.0,Fall,2025,Short
+61851,Isekai Quartet 3,TV,Not yet aired,7.42,2025-10-13 00:00:00+00:00,2408.0,5129,21889,50,"['Comedy', 'Fantasy']","['Isekai', 'Parody']",11.0,Fall,2025,Short
 52367,Isekai Shikkaku,TV,Finished Airing,7.26,2024-07-09 00:00:00+00:00,3096.0,1234,218282,833,"['Adventure', 'Comedy', 'Fantasy']","['Isekai', 'Parody']",12.0,Summer,2024,Short
 34012,Isekai Shokudou,TV,Finished Airing,7.41,2017-07-04 00:00:00+00:00,2381.0,956,280168,1115,"['Fantasy', 'Gourmet', 'Slice of Life']","['Isekai', 'Workplace']",12.0,Summer,2017,Short
 48804,Isekai Shokudou 2,TV,Finished Airing,7.69,2021-10-02 00:00:00+00:00,1370.0,2159,111013,450,"['Fantasy', 'Gourmet', 'Slice of Life']","['Isekai', 'Workplace']",12.0,Fall,2021,Short
@@ -109,7 +109,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 51693,Kaminaki Sekai no Kamisama Katsudou,TV,Finished Airing,6.68,2023-04-06 00:00:00+00:00,6167.0,1208,224093,765,"['Action', 'Comedy', 'Fantasy']","['Isekai', 'Parody']",12.0,Spring,2023,Short
 52308,Kanojo ga Koushaku-tei ni Itta Riyuu,TV,Finished Airing,7.53,2023-04-10 00:00:00+00:00,1892.0,1438,184702,1658,"['Fantasy', 'Romance']","['Isekai', 'Reincarnation']",12.0,Spring,2023,Short
 54265,Kekkon Yubiwa Monogatari,TV,Finished Airing,6.07,2024-01-06 00:00:00+00:00,9823.0,1929,129127,375,"['Action', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai']",12.0,Winter,2024,Short
-58515,Kekkon Yubiwa Monogatari II,TV,Not yet aired,6.46,2025-10-04 00:00:00+00:00,7744.0,4869,24767,62,"['Action', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai']",13.0,Fall,2025,Short
+58515,Kekkon Yubiwa Monogatari II,TV,Not yet aired,6.46,2025-10-04 00:00:00+00:00,7767.0,4869,24767,62,"['Action', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai']",13.0,Fall,2025,Short
 42072,Kenja no Deshi wo Nanoru Kenja,TV,Finished Airing,6.33,2022-01-12 00:00:00+00:00,8261.0,1808,139168,652,"['Adventure', 'Fantasy']","['Isekai', 'Magical Sex Shift']",12.0,Winter,2022,Short
 36407,Kenja no Mago,TV,Finished Airing,6.61,2019-04-10 00:00:00+00:00,6622.0,371,642480,3073,"['Action', 'Comedy', 'Fantasy', 'Romance']","['Isekai', 'Reincarnation']",12.0,Spring,2019,Short
 2074,Kerokero Chime,TV,Finished Airing,6.46,1997-03-06 00:00:00+00:00,7535.0,12168,2094,1,"['Adventure', 'Comedy', 'Fantasy']","['Isekai', 'Parody']",30.0,Spring,1997,Long
@@ -155,7 +155,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 57648,Nihon e Youkoso Elf-san.,TV,Finished Airing,7.29,2025-01-10 00:00:00+00:00,2944.0,2586,83745,259,"['Comedy', 'Fantasy']",['Isekai'],12.0,Winter,2025,Short
 19815,No Game No Life,TV,Finished Airing,8.04,2014-04-09 00:00:00+00:00,632.0,20,2513139,48288,"['Comedy', 'Fantasy', 'Ecchi']","['Isekai', 'Strategy Game']",12.0,Spring,2014,Short
 52611,Okashi na Tensei,TV,Finished Airing,6.7,2023-07-04 00:00:00+00:00,6080.0,2244,104506,246,['Fantasy'],"['Isekai', 'Reincarnation']",12.0,Summer,2023,Short
-61549,Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni,TV,Not yet aired,6.85,2026-01-01 00:00:00+00:00,5374.0,11375,2629,8,['Fantasy'],"['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
+61549,Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni,TV,Not yet aired,6.84,2026-01-01 00:00:00+00:00,5470.0,11375,2629,8,['Fantasy'],"['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
 61150,Onmyou Kaiten Re:Birth,TV,Finished Airing,6.53,2025-07-03 00:00:00+00:00,7077.0,4995,23278,35,"['Action', 'Fantasy', 'Sci-Fi']",['Isekai'],12.0,Summer,2025,Short
 60154,Ore wa Seikan Kokka no Akutoku Ryoushu!,TV,Finished Airing,7.02,2025-04-06 00:00:00+00:00,4399.0,2698,77585,270,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']","['Harem', 'Isekai', 'Mecha', 'Reincarnation', 'Space']",12.0,Spring,2025,Short
 38555,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,TV,Finished Airing,7.45,2020-04-05 00:00:00+00:00,2246.0,502,495999,3192,"['Comedy', 'Fantasy', 'Romance']","['Isekai', 'Reverse Harem', 'School', 'Villainess']",12.0,Spring,2020,Short
@@ -167,7 +167,7 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 37675,Overlord III,TV,Finished Airing,7.91,2018-07-10 00:00:00+00:00,842.0,187,985026,5546,"['Action', 'Adventure', 'Fantasy']",['Isekai'],13.0,Summer,2018,Short
 48895,Overlord IV,TV,Finished Airing,8.07,2022-07-05 00:00:00+00:00,588.0,398,608619,7389,"['Action', 'Adventure', 'Fantasy']",['Isekai'],13.0,Summer,2022,Short
 2826,Oz no Mahoutsukai (TV),TV,Finished Airing,6.7,1986-10-06 00:00:00+00:00,6081.0,10493,3377,14,"['Adventure', 'Fantasy']",['Isekai'],52.0,Fall,1986,Long
-62144,"Potion, Wagami wo Tasukeru",TV,Not yet aired,6.43,2025-10-03 00:00:00+00:00,7950.0,9367,4804,8,['Fantasy'],['Isekai'],12.0,Fall,2025,Short
+62144,"Potion, Wagami wo Tasukeru",TV,Not yet aired,6.44,2025-10-03 00:00:00+00:00,7877.0,9367,4804,8,['Fantasy'],['Isekai'],12.0,Fall,2025,Short
 54616,Potion-danomi de Ikinobimasu!,TV,Finished Airing,6.55,2023-10-08 00:00:00+00:00,6981.0,3266,55094,78,"['Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Fall,2023,Short
 56690,Re:Monster,TV,Finished Airing,6.54,2024-04-05 00:00:00+00:00,7002.0,1527,173775,528,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Spring,2024,Short
 31240,Re:Zero kara Hajimeru Isekai Seikatsu,TV,Finished Airing,8.24,2016-04-04 00:00:00+00:00,359.0,23,2380325,73384,"['Drama', 'Fantasy', 'Suspense']","['Isekai', 'Psychological', 'Time Travel']",25.0,Spring,2016,Medium
@@ -207,20 +207,20 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 50738,"Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",TV,Finished Airing,6.69,2025-04-05 00:00:00+00:00,6134.0,2101,116076,576,"['Comedy', 'Fantasy']","['CGDCT', 'Isekai']",12.0,Spring,2025,Short
 53730,"Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",TV,Finished Airing,6.36,2024-01-05 00:00:00+00:00,8134.0,1501,176638,641,"['Action', 'Adventure', 'Comedy', 'Fantasy']","['Isekai', 'Parody']",12.0,Winter,2024,Short
 48849,Sonny Boy,TV,Finished Airing,7.83,2021-07-16 00:00:00+00:00,1020.0,737,358945,8345,"['Award Winning', 'Mystery']","['Isekai', 'Super Power']",12.0,Summer,2021,Short
-61174,Sozai Saishuka no Isekai Ryokouki,TV,Not yet aired,6.12,2025-10-07 00:00:00+00:00,9771.0,6174,13517,43,"['Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
+61174,Sozai Saishuka no Isekai Ryokouki,TV,Not yet aired,6.12,2025-10-07 00:00:00+00:00,9800.0,6174,13517,43,"['Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
 171,Strange Dawn,TV,Finished Airing,6.24,2000-07-11 00:00:00+00:00,8859.0,8047,7061,9,"['Adventure', 'Drama', 'Fantasy']",['Isekai'],13.0,Summer,2000,Short
 35790,Tate no Yuusha no Nariagari,TV,Finished Airing,7.92,2019-01-09 00:00:00+00:00,823.0,68,1718656,25233,"['Action', 'Adventure', 'Drama', 'Fantasy']",['Isekai'],25.0,Winter,2019,Medium
 40356,Tate no Yuusha no Nariagari Season 2,TV,Finished Airing,6.53,2022-04-06 00:00:00+00:00,7045.0,250,840166,12327,"['Action', 'Adventure', 'Drama', 'Fantasy']",['Isekai'],13.0,Spring,2022,Short
 40357,Tate no Yuusha no Nariagari Season 3,TV,Finished Airing,7.09,2023-10-06 00:00:00+00:00,4076.0,497,499878,6143,"['Action', 'Adventure', 'Drama', 'Fantasy']",['Isekai'],12.0,Fall,2023,Short
 57907,Tate no Yuusha no Nariagari Season 4,TV,Finished Airing,6.94,2025-07-09 00:00:00+00:00,4762.0,1789,141361,504,"['Action', 'Adventure', 'Drama', 'Fantasy']",['Isekai'],12.0,Summer,2025,Short
 182,Tenkuu no Escaflowne,TV,Finished Airing,7.65,1996-04-02 00:00:00+00:00,1493.0,1538,172673,2268,"['Action', 'Adventure', 'Fantasy', 'Romance']","['Isekai', 'Love Polygon', 'Mecha']",26.0,Spring,1996,Medium
-58146,Tensei Akujo no Kuro Rekishi,TV,Not yet aired,6.72,2025-10-09 00:00:00+00:00,6077.0,6387,12478,30,"['Comedy', 'Romance']","['Isekai', 'Villainess']",12.0,Fall,2025,Short
+58146,Tensei Akujo no Kuro Rekishi,TV,Not yet aired,6.72,2025-10-09 00:00:00+00:00,6095.0,6387,12478,30,"['Comedy', 'Romance']","['Isekai', 'Villainess']",12.0,Fall,2025,Short
 47163,"Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",TV,Finished Airing,6.32,2022-07-04 00:00:00+00:00,8339.0,1115,242542,1417,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Summer,2022,Short
 52608,Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito,TV,Finished Airing,6.68,2023-04-03 00:00:00+00:00,6155.0,1262,212617,1062,"['Action', 'Fantasy', 'Romance']","['Harem', 'Isekai', 'Reincarnation']",12.0,Spring,2023,Short
 55265,"Tensei Kizoku, Kantei Skill de Nariagaru",TV,Finished Airing,7.17,2024-04-07 00:00:00+00:00,3654.0,1476,179496,428,"['Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Spring,2024,Short
 59131,"Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",TV,Finished Airing,7.45,2024-09-29 00:00:00+00:00,2228.0,2122,114064,303,"['Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Fall,2024,Short
 52736,Tensei Oujo to Tensai Reijou no Mahou Kakumei,TV,Finished Airing,7.46,2023-01-04 00:00:00+00:00,2170.0,1230,219238,1706,"['Fantasy', 'Girls Love']","['Isekai', 'Reincarnation']",12.0,Winter,2023,Short
-61207,Tensei shitara Dragon no Tamago datta,TV,Not yet aired,6.58,2026-01-01 00:00:00+00:00,7007.0,11966,2225,3,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
+61207,Tensei shitara Dragon no Tamago datta,TV,Not yet aired,6.53,2026-01-01 00:00:00+00:00,7223.0,11966,2225,3,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Winter,2026,Short
 49891,Tensei shitara Ken deshita,TV,Finished Airing,7.5,2022-10-05 00:00:00+00:00,2040.0,833,321409,1850,"['Action', 'Adventure', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Fall,2022,Short
 37430,Tensei shitara Slime Datta Ken,TV,Finished Airing,8.13,2018-10-02 00:00:00+00:00,509.0,78,1586597,32193,"['Action', 'Comedy', 'Fantasy']","['Isekai', 'Reincarnation']",24.0,Fall,2018,Medium
 39551,Tensei shitara Slime Datta Ken 2nd Season,TV,Finished Airing,8.35,2021-01-12 00:00:00+00:00,249.0,162,1071127,10936,"['Action', 'Comedy', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Winter,2021,Short
@@ -229,16 +229,16 @@ mal_id,title,type,status,score,start_date,rank,popularity,members,favorites,genr
 41488,Tensura Nikki: Tensei shitara Slime Datta Ken,TV,Finished Airing,7.59,2021-04-06 00:00:00+00:00,1684.0,706,371728,2127,"['Comedy', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Spring,2021,Short
 57100,The New Gate,TV,Finished Airing,6.45,2024-04-14 00:00:00+00:00,7612.0,1801,139602,401,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Spring,2024,Short
 53446,Tondemo Skill de Isekai Hourou Meshi,TV,Finished Airing,7.64,2023-01-11 00:00:00+00:00,1501.0,902,298946,2241,"['Adventure', 'Comedy', 'Fantasy', 'Gourmet']",['Isekai'],12.0,Winter,2023,Short
-57025,Tondemo Skill de Isekai Hourou Meshi 2,TV,Not yet aired,7.68,2025-10-08 00:00:00+00:00,1423.0,3273,54978,199,"['Adventure', 'Comedy', 'Fantasy', 'Gourmet']",['Isekai'],12.0,Fall,2025,Short
+57025,Tondemo Skill de Isekai Hourou Meshi 2,TV,Not yet aired,7.68,2025-10-08 00:00:00+00:00,1424.0,3273,54978,199,"['Adventure', 'Comedy', 'Fantasy', 'Gourmet']",['Isekai'],12.0,Fall,2025,Short
 43523,Tsuki ga Michibiku Isekai Douchuu,TV,Finished Airing,7.71,2021-07-07 00:00:00+00:00,1319.0,459,529719,4656,"['Action', 'Adventure', 'Comedy', 'Fantasy']",['Isekai'],12.0,Summer,2021,Short
 49889,Tsuki ga Michibiku Isekai Douchuu 2nd Season,TV,Finished Airing,7.84,2024-01-08 00:00:00+00:00,987.0,876,309113,2326,"['Action', 'Adventure', 'Comedy', 'Fantasy']",['Isekai'],25.0,Winter,2024,Medium
 41392,Urasekai Picnic,TV,Finished Airing,6.66,2021-01-04 00:00:00+00:00,6331.0,1904,131475,577,"['Adventure', 'Fantasy', 'Mystery', 'Suspense']","['Isekai', 'Survival']",12.0,Winter,2021,Short
 53833,Watashi no Oshi wa Akuyaku Reijou.,TV,Finished Airing,7.35,2023-10-03 00:00:00+00:00,2678.0,1796,140633,1313,"['Comedy', 'Fantasy', 'Girls Love']","['Isekai', 'School', 'Villainess']",12.0,Fall,2023,Short
 37393,"Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",TV,Finished Airing,6.74,2019-10-07 00:00:00+00:00,5789.0,1275,209688,476,"['Adventure', 'Comedy', 'Fantasy']","['Isekai', 'Reincarnation']",12.0,Fall,2019,Short
-59644,Yasei no Last Boss ga Arawareta!,TV,Not yet aired,7.47,2025-10-04 00:00:00+00:00,2203.0,5099,22158,67,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
+59644,Yasei no Last Boss ga Arawareta!,TV,Not yet aired,7.47,2025-10-04 00:00:00+00:00,2207.0,5099,22158,67,"['Action', 'Adventure', 'Fantasy']",['Isekai'],12.0,Fall,2025,Short
 32615,Youjo Senki,TV,Finished Airing,7.96,2017-01-06 00:00:00+00:00,748.0,177,1007259,13376,"['Action', 'Fantasy']","['Isekai', 'Military', 'Reincarnation']",12.0,Winter,2017,Short
 33966,Yume Oukoku to Nemureru 100-nin no Oujisama,TV,Finished Airing,5.89,2018-07-05 00:00:00+00:00,10797.0,5269,20467,50,"['Adventure', 'Fantasy']","['Isekai', 'Reverse Harem']",12.0,Summer,2018,Short
-61983,"Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",TV,Not yet aired,6.45,2026-01-01 00:00:00+00:00,7799.0,9736,4289,17,"['Adventure', 'Comedy', 'Fantasy', 'Romance']","['Isekai', 'Reincarnation']",13.0,Winter,2026,Short
+61983,"Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",TV,Not yet aired,6.36,2026-01-01 00:00:00+00:00,8355.0,9736,4289,17,"['Adventure', 'Comedy', 'Fantasy', 'Romance']","['Isekai', 'Reincarnation']",13.0,Winter,2026,Short
 58502,Zenshuu.,TV,Finished Airing,7.58,2025-01-05 00:00:00+00:00,1705.0,1706,149997,865,"['Action', 'Fantasy']",['Isekai'],12.0,Winter,2025,Short
 1195,Zero no Tsukaima,TV,Finished Airing,7.2,2006-07-03 00:00:00+00:00,3495.0,243,855507,8120,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai', 'School']",13.0,Summer,2006,Short
 11319,Zero no Tsukaima F,TV,Finished Airing,7.41,2012-01-07 00:00:00+00:00,2423.0,576,439736,1228,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']","['Harem', 'Isekai', 'School']",12.0,Winter,2012,Short
